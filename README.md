@@ -1,0 +1,1 @@
+This is my first real project in the Project Odin course. The project's aim is create a website using the git, github, and html. This repository will be revisited later in the curriculum and styled with CSS. Among the tools I want to use are: hyperlinks, images, bold and italic text, a properly nested body, and lists.

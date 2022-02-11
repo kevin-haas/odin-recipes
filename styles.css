@@ -1,7 +1,8 @@
 
 body{
     background-color: lavender;
-    color: darkgreen
+    color: darkgreen;
+    font-family: Helvetica, Verdana, sans-serif;
 }
 
 h1 {

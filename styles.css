@@ -1,7 +1,9 @@
-head {
-    background-color: aqua;
-}
+
 body{
     background-color: lavender;
     color: darkgreen
+}
+
+h1 {
+    background-color: gold;
 }
